@@ -1,2 +1,1 @@
-# internship-main
-all projects 
+# Internship
